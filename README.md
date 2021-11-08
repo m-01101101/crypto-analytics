@@ -31,6 +31,10 @@ https://www.tokenterminal.com/
 
 A [web application](https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount) for a huge number of metrics and an [API](https://docs.glassnode.com/api/addresses)
 
+## Santiment
+
+Link: https://santiment.net/
+
 
 ## Understanding the data
 
