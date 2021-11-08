@@ -38,6 +38,12 @@ A [web application](https://studio.glassnode.com/metrics?a=BTC&m=addresses.Activ
 
 Link: https://santiment.net/
 
+## CCXT
+
+Exchange data https://github.com/ccxt/ccxt
+
+> CCXT wraps a bunch of different exchange APIs into a single library interface. 
+
 
 ## Understanding the data
 
