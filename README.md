@@ -1,5 +1,8 @@
-# crypto-analytics
-An overview of tools and data available
+# Crypto Analytics
+
+An overview of tools and data available.
+
+Something missing, incoorect or unclear? Raise an issue, create a Pull Request, let's make this better.
 
 ## Data providers
 
