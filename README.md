@@ -6,6 +6,8 @@ Something missing, incoorect or unclear? Raise an issue, create a Pull Request, 
 
 ## Understanding Ethereum data
 
+> Knowing how to navigate and understanding what you see on etherscan
+
 
 | Field  | Description  |
 |---|---|
