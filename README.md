@@ -10,7 +10,7 @@ In the not too distant future, most analytical work will not touch layer 1 proto
 
 >  All abstractions, leak, and the only way to deal with the leaks competently is to learn about how the abstractions work and what they are abstracting. So the abstractions save us time working, but they don’t save us time learning. -- Joel Spolsky
 
-[Basic Ethereum Data](analytics_course/01_basic_ethereum_data.md)
+[Basic Ethereum Data](./analytics-course/01_basic_ethereum_data.md)
 
 ### Knowing how to navigate and understanding what you see on Etherscan
 
