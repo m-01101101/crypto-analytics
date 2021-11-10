@@ -2,11 +2,15 @@
 
 An overview of tools and data available.
 
-Something missing, incoorect or unclear? Raise an issue, create a Pull Request, let's make this better.
+Something missing, incorrect or unclear? Raise an issue, create a Pull Request, let's make this better.
 
 ## Understanding Ethereum data
 
-> Knowing how to navigate and understanding what you see on etherscan
+In the not too distant future, most analytical work will not touch layer 1 protocols. However, [The Law of leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) teaches us that abstractions fail and we will at times need to dive into the workings of layer 1 and the intermingling protocols.
+
+>  All abstractions, leak, and the only way to deal with the leaks competently is to learn about how the abstractions work and what they are abstracting. So the abstractions save us time working, but they don’t save us time learning. -- Joel Spolsky
+
+### Knowing how to navigate and understanding what you see on Etherscan
 
 
 | Field  | Description  |
@@ -18,7 +22,15 @@ Something missing, incoorect or unclear? Raise an issue, create a Pull Request, 
 | Gas Price  | This is how much ether is being paid per gas unit   |
 | Gas  | Amount of gas this event consumes   |
 
-## Data providers
+### Understanding protocols
+
+An approach to grokking a protocol.
+
+Things to look out for.
+
+An example.
+
+## Tools
 
 https://twitter.com/visavishesh/status/1458158005388816393?s=20
 
