@@ -4,6 +4,18 @@ An overview of tools and data available.
 
 Something missing, incoorect or unclear? Raise an issue, create a Pull Request, let's make this better.
 
+## Understanding Ethereum data
+
+
+| Field  | Description  |
+|---|---|
+| Hash | Unique ID of the event  |
+| From  | Sender address   |
+| To  | Receiver address   |
+| Nonce  | Counter how many transaction addresses have been sent. It also determines the sequence of transactions   |
+| Gas Price  | This is how much ether is being paid per gas unit   |
+| Gas  | Amount of gas this event consumes   |
+
 ## Data providers
 
 https://twitter.com/visavishesh/status/1458158005388816393?s=20
