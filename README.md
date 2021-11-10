@@ -34,7 +34,7 @@ No API available. You can pay to export to CSV.
 
 ### Messari
 
-[Messari](https://messari.io/) is a research house. They also provide an [API](https://messari.io/api/docs)
+[Messari](https://messari.io/) is a research house. They also provide a Python [API](https://github.com/messari/messari-python-api) and an [example notebook](https://github.com/messari/messari-python-api/blob/master/examples/Messari%20API%20Tutorial.ipynb)
 
 ### Token Terminal
 
