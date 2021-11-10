@@ -49,7 +49,7 @@ Dune will create a table named `ethereum.transactions` that represents the calle
 
 Dune will create a table named `ethereum.logs` that represents the transfer function.
 
-Think of topics like variables. They will vary depending on the contract.
+Think of topics like variables. They will vary depending on the contract called.
 
 All the tables can be linked using the transaction hash.
 
