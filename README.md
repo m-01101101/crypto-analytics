@@ -10,6 +10,8 @@ In the not too distant future, most analytical work will not touch layer 1 proto
 
 >  All abstractions, leak, and the only way to deal with the leaks competently is to learn about how the abstractions work and what they are abstracting. So the abstractions save us time working, but they don’t save us time learning. -- Joel Spolsky
 
+[Basic Ethereum Data](analytics_course/01_basic_ethereum_data.md)
+
 ### Knowing how to navigate and understanding what you see on Etherscan
 
 
@@ -30,9 +32,9 @@ Things to look out for.
 
 An example.
 
-## Tools
+## [Tools](#analytics-tools)
 
-https://twitter.com/visavishesh/status/1458158005388816393?s=20
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As a researcher in crypto, the availability of data is 10x better than 3 years ago.<br> <a href="https://twitter.com/DuneAnalytics?ref_src=twsrc%5Etfw">@DuneAnalytics</a> for quick query-&gt;graph cycles<a href="https://twitter.com/flipsidecrypto?ref_src=twsrc%5Etfw"><br>@flipsidecrypto</a> for custom api endpoints on key projects<a href="https://twitter.com/graphprotocol?ref_src=twsrc%5Etfw"><br>@graphprotocol</a> for deep well of community built subgraphs<a href="https://twitter.com/nansen_ai?ref_src=twsrc%5Etfw"><br>@nansen_ai</a> for God Mode 🔍</p>&mdash; Vishesh 🔍🦇🔊 (@visavishesh) <a href="https://twitter.com/visavishesh/status/1458158005388816393?ref_src=twsrc%5Etfw">November 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
 ### Dune
 
