@@ -10,7 +10,6 @@
 
 </div>
 
-
-Note, this is an introductory course and includes things like learning basic SQL. I've been doing "data stuff" for a number of years so I skip over any material that is not crypto / Web3 specific. These notes are more about grokking the data and ways of working that might be new to someone coming from the Web2 world.
+<br>Note, this is an introductory course and includes things like learning basic SQL. I've been doing "data stuff" for a number of years so I skip over any material that is not crypto / Web3 specific. These notes are more about grokking the data and ways of working that might be new to someone coming from the Web2 world.
 
 All course materials [[here](https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ)]
